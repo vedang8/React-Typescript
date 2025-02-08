@@ -1,14 +1,8 @@
-import './App.css'
+import { Greet } from './components/Greet'
 
 function App() {
-  
   return (
-    <>
-      <div>
-       
-      </div>
-      
-    </>
+      <Greet name='Vedang'/>    
   )
 }
 
